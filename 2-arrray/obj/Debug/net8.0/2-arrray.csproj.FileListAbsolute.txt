@@ -1,0 +1,14 @@
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/bin/Debug/net8.0/2-arrray
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/bin/Debug/net8.0/2-arrray.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/bin/Debug/net8.0/2-arrray.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/bin/Debug/net8.0/2-arrray.dll
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/bin/Debug/net8.0/2-arrray.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.dll
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/refint/2-arrray.dll
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/2-arrray.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/2-arrray/obj/Debug/net8.0/ref/2-arrray.dll

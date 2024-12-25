@@ -1,0 +1,14 @@
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/bin/Debug/net8.0/3-encapsulation
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/bin/Debug/net8.0/3-encapsulation.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/bin/Debug/net8.0/3-encapsulation.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/bin/Debug/net8.0/3-encapsulation.dll
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/bin/Debug/net8.0/3-encapsulation.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.dll
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/refint/3-encapsulation.dll
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/3-encapsulation.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/3-encapsulation/obj/Debug/net8.0/ref/3-encapsulation.dll

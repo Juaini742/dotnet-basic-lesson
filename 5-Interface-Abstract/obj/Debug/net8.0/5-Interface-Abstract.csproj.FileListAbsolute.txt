@@ -1,0 +1,14 @@
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/bin/Debug/net8.0/5-Interface-Abstract
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/bin/Debug/net8.0/5-Interface-Abstract.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/bin/Debug/net8.0/5-Interface-Abstract.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/bin/Debug/net8.0/5-Interface-Abstract.dll
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/bin/Debug/net8.0/5-Interface-Abstract.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.dll
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/refint/5-Interface-Abstract.dll
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/5-Interface-Abstract.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/5-Interface-Abstract/obj/Debug/net8.0/ref/5-Interface-Abstract.dll

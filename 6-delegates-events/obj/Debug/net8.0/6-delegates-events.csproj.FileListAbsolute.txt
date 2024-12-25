@@ -1,0 +1,14 @@
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/bin/Debug/net8.0/6-delegates-events
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/bin/Debug/net8.0/6-delegates-events.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/bin/Debug/net8.0/6-delegates-events.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/bin/Debug/net8.0/6-delegates-events.dll
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/bin/Debug/net8.0/6-delegates-events.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.dll
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/refint/6-delegates-events.dll
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/6-delegates-events.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/6-delegates-events/obj/Debug/net8.0/ref/6-delegates-events.dll

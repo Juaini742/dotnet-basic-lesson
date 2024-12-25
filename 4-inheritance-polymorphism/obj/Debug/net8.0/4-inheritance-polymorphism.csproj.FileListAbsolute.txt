@@ -1,0 +1,14 @@
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/bin/Debug/net8.0/4-inheritance-polymorphism
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/bin/Debug/net8.0/4-inheritance-polymorphism.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/bin/Debug/net8.0/4-inheritance-polymorphism.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/bin/Debug/net8.0/4-inheritance-polymorphism.dll
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/bin/Debug/net8.0/4-inheritance-polymorphism.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.dll
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/refint/4-inheritance-polymorphism.dll
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/4-inheritance-polymorphism.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/4-inheritance-polymorphism/obj/Debug/net8.0/ref/4-inheritance-polymorphism.dll
