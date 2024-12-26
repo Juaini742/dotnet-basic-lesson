@@ -1,0 +1,15 @@
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/bin/Debug/net8.0/7-language-integrated-query
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/bin/Debug/net8.0/7-language-integrated-query.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/bin/Debug/net8.0/7-language-integrated-query.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/bin/Debug/net8.0/7-language-integrated-query.dll
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/bin/Debug/net8.0/7-language-integrated-query.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.sourcelink.json
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.dll
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/refint/7-language-integrated-query.dll
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/7-language-integrated-query.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/7-language-integrated-query/obj/Debug/net8.0/ref/7-language-integrated-query.dll
