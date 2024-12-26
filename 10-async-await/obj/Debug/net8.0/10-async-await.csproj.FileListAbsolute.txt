@@ -1,0 +1,15 @@
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/bin/Debug/net8.0/10-async-await
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/bin/Debug/net8.0/10-async-await.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/bin/Debug/net8.0/10-async-await.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/bin/Debug/net8.0/10-async-await.dll
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/bin/Debug/net8.0/10-async-await.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.sourcelink.json
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.dll
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/refint/10-async-await.dll
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/10-async-await.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/10-async-await/obj/Debug/net8.0/ref/10-async-await.dll
