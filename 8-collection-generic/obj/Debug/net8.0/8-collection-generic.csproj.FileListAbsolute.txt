@@ -1,0 +1,15 @@
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/bin/Debug/net8.0/8-collection-generic
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/bin/Debug/net8.0/8-collection-generic.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/bin/Debug/net8.0/8-collection-generic.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/bin/Debug/net8.0/8-collection-generic.dll
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/bin/Debug/net8.0/8-collection-generic.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.sourcelink.json
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.dll
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/refint/8-collection-generic.dll
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/8-collection-generic.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/8-collection-generic/obj/Debug/net8.0/ref/8-collection-generic.dll

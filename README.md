@@ -26,20 +26,20 @@ This is my personal learning notes for studying C#. I document my progress and u
 
 ## Lessons
 
-| No. | Lesson                                         | Status              |
-| --- | ---------------------------------------------- | ------------------- |
-| 1   | **Basic**                                      | ✅ Completed        |
-| 2   | **Array**                                      | ✅ Completed        |
-| 3   | **Encapsulation**                              | ✅ Completed        |
-| 4   | **Inheritance and Polymorphism**               | ✅ Completed        |
-| 5   | **Interface and Abstract Class**               | ✅ Completed        |
-| 6   | **Delegates and Events**                       | ✅ CompletedStarted |
-| 7   | **LINQ (Language Integrated Query)**           | ⬜ Not Started      |
-| 8   | **Collections (Generic and Non-Generic)**      | ⬜ Not Started      |
-| 9   | **Exception Handling**                         | ⬜ Not Started      |
-| 10  | **Asynchronous Programming (async and await)** | ⬜ Not Started      |
-| 11  | **File I/O (Input/Output)**                    | ⬜ Not Started      |
-| 12  | **Entity Framework / Database Access**         | ⬜ Not Started      |
-| 13  | **Dependency Injection and Design Patterns**   | ⬜ Not Started      |
-| 14  | **Multithreading and Parallel Programming**    | ⬜ Not Started      |
-| 15  | **Unit Testing**                               | ⬜ Not Started      |
+| No. | Lesson                                         | Status         |
+| --- | ---------------------------------------------- | -------------- |
+| 1   | **Basic**                                      | ✅ Completed   |
+| 2   | **Array**                                      | ✅ Completed   |
+| 3   | **Encapsulation**                              | ✅ Completed   |
+| 4   | **Inheritance and Polymorphism**               | ✅ Completed   |
+| 5   | **Interface and Abstract Class**               | ✅ Completed   |
+| 6   | **Delegates and Events**                       | ✅ Completed   |
+| 7   | **LINQ (Language Integrated Query)**           | ✅ Completed   |
+| 8   | **Collections (Generic and Non-Generic)**      | ✅ Completed   |
+| 9   | **Exception Handling**                         | ⬜ Not Started |
+| 10  | **Asynchronous Programming (async and await)** | ⬜ Not Started |
+| 11  | **File I/O (Input/Output)**                    | ⬜ Not Started |
+| 12  | **Entity Framework / Database Access**         | ⬜ Not Started |
+| 13  | **Dependency Injection and Design Patterns**   | ⬜ Not Started |
+| 14  | **Multithreading and Parallel Programming**    | ⬜ Not Started |
+| 15  | **Unit Testing**                               | ⬜ Not Started |
