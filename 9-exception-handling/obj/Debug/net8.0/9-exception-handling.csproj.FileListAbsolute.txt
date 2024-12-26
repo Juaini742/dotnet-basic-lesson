@@ -1,0 +1,15 @@
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/bin/Debug/net8.0/9-exception-handling
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/bin/Debug/net8.0/9-exception-handling.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/bin/Debug/net8.0/9-exception-handling.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/bin/Debug/net8.0/9-exception-handling.dll
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/bin/Debug/net8.0/9-exception-handling.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.sourcelink.json
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.dll
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/refint/9-exception-handling.dll
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/9-exception-handling.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/9-exception-handling/obj/Debug/net8.0/ref/9-exception-handling.dll

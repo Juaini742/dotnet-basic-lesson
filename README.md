@@ -36,7 +36,7 @@ This is my personal learning notes for studying C#. I document my progress and u
 | 6   | **Delegates and Events**                       | ✅ Completed   |
 | 7   | **LINQ (Language Integrated Query)**           | ✅ Completed   |
 | 8   | **Collections (Generic and Non-Generic)**      | ✅ Completed   |
-| 9   | **Exception Handling**                         | ⬜ Not Started |
+| 9   | **Exception Handling**                         | ✅ Completed   |
 | 10  | **Asynchronous Programming (async and await)** | ⬜ Not Started |
 | 11  | **File I/O (Input/Output)**                    | ⬜ Not Started |
 | 12  | **Entity Framework / Database Access**         | ⬜ Not Started |
