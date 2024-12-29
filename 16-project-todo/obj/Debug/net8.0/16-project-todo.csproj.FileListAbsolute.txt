@@ -1,0 +1,15 @@
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/bin/Debug/net8.0/16-project-todo
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/bin/Debug/net8.0/16-project-todo.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/bin/Debug/net8.0/16-project-todo.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/bin/Debug/net8.0/16-project-todo.dll
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/bin/Debug/net8.0/16-project-todo.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.sourcelink.json
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.dll
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/refint/16-project-todo.dll
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/16-project-todo.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/16-project-todo/obj/Debug/net8.0/ref/16-project-todo.dll

@@ -7,7 +7,8 @@ namespace _4_inheritance_polymorphism
 {
     public class Motorcycle : Vehicle
     {
-        public override void Drive() {
+        public override void Drive()
+        {
             System.Console.WriteLine($"{Brand} motorcycle is zooming by!");
         }
     }

@@ -1,0 +1,15 @@
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.AssemblyInfoInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.AssemblyInfo.cs
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.sourcelink.json
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/bin/Debug/net8.0/11.file-io-input-output
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/bin/Debug/net8.0/11.file-io-input-output.deps.json
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/bin/Debug/net8.0/11.file-io-input-output.runtimeconfig.json
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/bin/Debug/net8.0/11.file-io-input-output.dll
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/bin/Debug/net8.0/11.file-io-input-output.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.dll
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/refint/11.file-io-input-output.dll
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.pdb
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/11.file-io-input-output.genruntimeconfig.cache
+/home/enigma/Documents/C#/LEARN/fundamental/11.file-io-input-output/obj/Debug/net8.0/ref/11.file-io-input-output.dll

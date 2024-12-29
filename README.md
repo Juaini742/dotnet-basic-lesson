@@ -19,6 +19,7 @@ This is my personal learning notes for studying C#. I document my progress and u
 13. **Dependency Injection and Design Patterns**
 14. **Multithreading and Parallel Programming**
 15. **Unit Testing**
+16. **Project Todo**
 
 # My C# Learning Notes
 
@@ -38,8 +39,9 @@ This is my personal learning notes for studying C#. I document my progress and u
 | 8   | **Collections (Generic and Non-Generic)**      | ✅ Completed   |
 | 9   | **Exception Handling**                         | ✅ Completed   |
 | 10  | **Asynchronous Programming (async and await)** | ✅ Completed   |
-| 11  | **File I/O (Input/Output)**                    | ⬜ Not Started |
+| 11  | **File I/O (Input/Output)**                    | ✅ Completed   |
 | 12  | **Entity Framework / Database Access**         | ⬜ Not Started |
 | 13  | **Dependency Injection and Design Patterns**   | ⬜ Not Started |
 | 14  | **Multithreading and Parallel Programming**    | ⬜ Not Started |
 | 15  | **Unit Testing**                               | ⬜ Not Started |
+| 16  | **Project Todo**                               | ⬜ Process     |
